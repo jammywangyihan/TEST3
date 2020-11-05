@@ -7,8 +7,13 @@
     單行文本測試<br>
 [網址測試](https://www.youtube.com/watch?v=rEWkwoL9BI8)<br>
 [辨識測試][urltt]<br>
-![成功][chivava]
+![成功][chivava-cute]<br>
+[![圖影連接][chivava-evilp]][chivava-vi]
+
+
 
 [urltt]:https://www.youtube.com/watch?v=lr2aUYThB-E
-[chivava]:/picture/chi.jpg
+[chivava-cute]:/picture/chi.jpg
+[chivava-evilp]:/picture/images.jpg
+[chivava-vi]:https://www.youtube.com/watch?v=K8MFie0l7Ww
 
