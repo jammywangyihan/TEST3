@@ -14,7 +14,7 @@
 
 
 [urltt]:https://www.youtube.com/watch?v=lr2aUYThB-E
-[chivava-cute]:https://github.com/jammywangyihan/TEST3/raw/main/picture/chi.jpg
-[chivava-evilp]:https://github.com/jammywangyihan/TEST3/raw/main/picture/images.jpg
+[chivava-cute]:/picture/chi.jpg
+[chivava-evilp]:/picture/images.jpg
 [chivava-vi]:https://www.youtube.com/watch?v=K8MFie0l7Ww
 
