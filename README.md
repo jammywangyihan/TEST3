@@ -7,4 +7,4 @@
     單行文本測試<br>
 [網址測試](https://www.youtube.com/watch?v=rEWkwoL9BI8)<br>
 ![wrong][吉娃娃]
-[吉娃娃]:(https://github.com/jammywangyihan/TEST3/raw/main/picture/Chivava.jpg)
+[吉娃娃]:https://github.com/jammywangyihan/TEST3/raw/main/picture/Chivava.jpg
